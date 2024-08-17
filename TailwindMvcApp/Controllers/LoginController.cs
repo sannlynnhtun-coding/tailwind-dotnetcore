@@ -30,7 +30,7 @@ namespace TailwindMvcApp.Controllers
             var principal = new ClaimsPrincipal(identity);
             await HttpContext.SignInAsync(principal);
 
-            return Redirect("/Home");
+            return Redirect("/");
         }
 
         [HttpPost]
