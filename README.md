@@ -99,3 +99,6 @@ Finally, include the path to the compiled CSS file in your `_Layout.cshtml` or a
 ---
 
 With these steps, your ASP.NET 7 MVC project is now configured to use Tailwind CSS, allowing you to take advantage of Tailwind's utility-first approach to styling.
+
+**Reference:**
+For additional details, you can refer to the [Tailwind ASP.NET MVC integration guide](https://github.com/angeldev96/tailwind-aspdotnet).
