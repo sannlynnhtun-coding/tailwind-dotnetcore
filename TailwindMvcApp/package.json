@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.4.10"
+  },
+  "name": "tailwindmvcapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "css:build": "npx tailwindcss -i ./wwwroot/css/site.css -o ./wwwroot/css/styles.css --minify",
+    "watch": "npx tailwindcss -i ./wwwroot/css/site.css -o ./wwwroot/css/styles.css --minify --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
