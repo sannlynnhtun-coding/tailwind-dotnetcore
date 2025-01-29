@@ -1,9 +1,5 @@
 # **Integrating Tailwind CSS into an ASP.NET 7 MVC Project**
 
-This guide provides a **clear and accurate step-by-step process** for integrating Tailwind CSS into an ASP.NET 7 MVC project. Follow these steps to set up Tailwind CSS and streamline your styling workflow.
-
----
-
 ## **Requirements**
 Before starting, ensure you have the following installed:
 - **Node.js** (for npm and Tailwind CSS)
